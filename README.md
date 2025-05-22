@@ -33,7 +33,7 @@ The **Smart Study Scheduler** is a console-based C++ application that helps stud
 
 2. **Compile the program**:
 ```bash
-g++ study_scheduler.cpp -o study_scheduler
+g++ main.cpp -o study_scheduler
 ```
 3. **Run the program**:
 ```bash
